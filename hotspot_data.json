@@ -1,0 +1,1730 @@
+{
+    "count": [
+        {
+            "key": "hotspots_count",
+            "value": 984992,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 985083,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 985139,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 985200,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 985348,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 985441,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 985569,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 985676,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 985782,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 985896,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986010,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986130,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986221,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986313,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986393,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986475,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986566,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986654,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986735,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986800,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986875,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 986971,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 987049,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 987121,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 987195,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 987286,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 987351,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 987423,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 987524,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 987660,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspots_count",
+            "value": 987666,
+            "timestamp": 1677715200000
+        }
+    ],
+    "onlinePct": [
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4831,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4832,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4829,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4817,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4765,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4657,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4408,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4439,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4456,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4485,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4497,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4498,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4482,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4465,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.447,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.453,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4536,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4537,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4515,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4497,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4478,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4466,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4472,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4472,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4467,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4458,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4446,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4443,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4451,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4449,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspots_online_pct",
+            "value": 0.4449,
+            "timestamp": 1677715200000
+        }
+    ],
+    "ownersCount": [],
+    "citiesCount": [
+        {
+            "key": "hotspots_cities_count",
+            "value": 77053,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77071,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77075,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77087,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77103,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77119,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77132,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77143,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77157,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77167,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77183,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77194,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77208,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77214,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77223,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77231,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77249,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77250,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77262,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77266,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77284,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77300,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77312,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77322,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77336,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77344,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77351,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77354,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77369,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77389,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspots_cities_count",
+            "value": 77390,
+            "timestamp": 1677715200000
+        }
+    ],
+    "countriesCount": [
+        {
+            "key": "hotspots_countries_count",
+            "value": 189,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 189,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 189,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 189,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 189,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 189,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 189,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 189,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 189,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 190,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 191,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 192,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 192,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 192,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 192,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 192,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 192,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 192,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspots_countries_count",
+            "value": 192,
+            "timestamp": 1677715200000
+        }
+    ],
+    "dataOnlyCount": [
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2675,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2677,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2677,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2678,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2681,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2681,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2682,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2684,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2687,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2687,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2687,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2687,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2689,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2692,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2693,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2694,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2701,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2709,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2711,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2711,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2711,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2713,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2713,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2714,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2716,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2717,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2717,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2717,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2717,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2718,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspots_data_only_count",
+            "value": 2718,
+            "timestamp": 1677715200000
+        }
+    ],
+    "onlineCount": [
+        {
+            "key": "hotspots_online_count",
+            "value": 475890,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 476007,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 475713,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 474556,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 469417,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 458838,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 434435,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 437496,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 439285,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 442142,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 443397,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 443525,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 441980,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 440431,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 440842,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 446861,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 447492,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 447650,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 445488,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 443695,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 441908,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 440829,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 441395,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 441412,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 440953,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 440060,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 438936,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 438674,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 439558,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 439380,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspots_online_count",
+            "value": 439384,
+            "timestamp": 1677715200000
+        }
+    ],
+    "rewardedCount": [
+        {
+            "key": "hotspots_rewarded",
+            "value": 426614,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 426532,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 438538,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 440937,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 416717,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 417045,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 412833,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 409636,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 414011,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 418674,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 419646,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 418573,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 417801,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 417864,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 418317,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 424686,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 424832,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 421059,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 420645,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 419758,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 419436,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 419904,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 419237,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 419110,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 419642,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 419563,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 417973,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 418403,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 417944,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 416475,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspots_rewarded",
+            "value": 415673,
+            "timestamp": 1677715200000
+        }
+    ],
+    "dataTransferredCount": [
+        {
+            "key": "hotspots_data_transferred",
+            "value": 64844,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 67108,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 65762,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 66834,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 63040,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 58203,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 58176,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 59306,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 60826,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 65103,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 67262,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 63039,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 60155,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 57424,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 60741,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 62250,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 63853,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 64766,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 64656,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 60531,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 61464,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 63004,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 60189,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 62359,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 68429,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 68474,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 61907,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 61380,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 61852,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 61931,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspots_data_transferred",
+            "value": 60853,
+            "timestamp": 1677715200000
+        }
+    ],
+    "witnessesCount": [
+        {
+            "key": "hotspot_witnesses",
+            "value": 407413,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 407341,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 423892,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 428953,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 409339,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 409129,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 402169,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 394081,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 398471,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 404187,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 405864,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 405749,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 405201,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 404450,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 404815,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 411019,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 411110,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 407380,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 406850,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 406381,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 405700,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 406243,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 404973,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 405179,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 406262,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 406296,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 405384,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 405508,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 405526,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 404170,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspot_witnesses",
+            "value": 401833,
+            "timestamp": 1677715200000
+        }
+    ],
+    "challengeesCount": [
+        {
+            "key": "hotspot_challengees",
+            "value": 269527,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 269972,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 378577,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 383500,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 368011,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 368320,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 365520,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 381606,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 386731,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 392266,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 396193,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 396163,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 395690,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 395118,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 394623,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 416109,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 417433,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 412992,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 412357,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 410767,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 409256,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 409346,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 407943,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 402429,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 404464,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 404126,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 401929,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 402431,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 401979,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 400424,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspot_challengees",
+            "value": 376146,
+            "timestamp": 1677715200000
+        }
+    ],
+    "challengeesWeekCount": [
+        {
+            "key": "hotspot_challengees_week",
+            "value": 467079,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 467003,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 469948,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 470188,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 469579,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 468421,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 465692,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 460773,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 454793,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 437482,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 418535,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 418893,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 419282,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 419189,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 419721,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 438513,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 441921,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 442115,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 442279,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 442408,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 442299,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 442390,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 441268,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 436095,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 434033,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 432532,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 431181,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 430189,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 429047,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 427567,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "hotspot_challengees_week",
+            "value": 426214,
+            "timestamp": 1677715200000
+        }
+    ]
+}
