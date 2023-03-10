@@ -1,0 +1,787 @@
+{
+    "count": [
+        {
+            "key": "cells_count",
+            "value": 8373,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "cells_count",
+            "value": 8371,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "cells_count",
+            "value": 8382,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "cells_count",
+            "value": 8412,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "cells_count",
+            "value": 8416,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "cells_count",
+            "value": 8417,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "cells_count",
+            "value": 8440,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "cells_count",
+            "value": 8467,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "cells_count",
+            "value": 8478,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "cells_count",
+            "value": 8483,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "cells_count",
+            "value": 8509,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "cells_count",
+            "value": 8514,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "cells_count",
+            "value": 8514,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "cells_count",
+            "value": 8516,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "cells_count",
+            "value": 8490,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "cells_count",
+            "value": 8422,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "cells_count",
+            "value": 8422,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "cells_count",
+            "value": 8414,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "cells_count",
+            "value": 8436,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "cells_count",
+            "value": 8397,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "cells_count",
+            "value": 8423,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "cells_count",
+            "value": 8463,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "cells_count",
+            "value": 8497,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "cells_count",
+            "value": 8508,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "cells_count",
+            "value": 8347,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "cells_count",
+            "value": 8357,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "cells_count",
+            "value": 8351,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "cells_count",
+            "value": 8393,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "cells_count",
+            "value": 8418,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "cells_count",
+            "value": 8418,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "cells_count",
+            "value": 8399,
+            "timestamp": 1677715200000
+        }
+    ],
+    "indoorCount": [
+        {
+            "key": "cells_indoor_count",
+            "value": 3830,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3831,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3833,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3838,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3838,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3839,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3841,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3844,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3843,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3844,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3846,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3848,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3848,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3848,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3847,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3847,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3848,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3848,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3848,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3848,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3850,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3850,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3850,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3851,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3851,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3851,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3851,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3861,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3863,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3864,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "cells_indoor_count",
+            "value": 3864,
+            "timestamp": 1677715200000
+        }
+    ],
+    "outdoorCount": [
+        {
+            "key": "cells_outdoor_count",
+            "value": 4543,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4540,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4549,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4577,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4578,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4578,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4599,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4624,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4635,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4639,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4663,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4666,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4666,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4668,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4643,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4575,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4576,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4567,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4590,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4549,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4573,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4614,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4647,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4658,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4496,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4506,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4500,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4532,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4556,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4555,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "cells_outdoor_count",
+            "value": 4535,
+            "timestamp": 1677715200000
+        }
+    ],
+    "citiesCount": [
+        {
+            "key": "cells_cities_count",
+            "value": 1602,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1604,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1606,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1611,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1613,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1612,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1614,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1617,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1617,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1619,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1621,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1623,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1622,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1623,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1619,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1612,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1612,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1615,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1618,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1618,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1616,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1615,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1618,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1615,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1564,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1566,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1563,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1575,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1574,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1574,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "cells_cities_count",
+            "value": 1574,
+            "timestamp": 1677715200000
+        }
+    ],
+    "statesCount": [
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "cells_states_count",
+            "value": 49,
+            "timestamp": 1677715200000
+        }
+    ]
+}
