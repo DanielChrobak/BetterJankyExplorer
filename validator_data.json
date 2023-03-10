@@ -1,0 +1,473 @@
+{
+    "count": [
+        {
+            "key": "validators_count",
+            "value": 2985,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "validators_count",
+            "value": 2985,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "validators_count",
+            "value": 2984,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "validators_count",
+            "value": 2979,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "validators_count",
+            "value": 2976,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "validators_count",
+            "value": 2973,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "validators_count",
+            "value": 2973,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "validators_count",
+            "value": 2973,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "validators_count",
+            "value": 2973,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "validators_count",
+            "value": 2972,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "validators_count",
+            "value": 2972,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "validators_count",
+            "value": 2972,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "validators_count",
+            "value": 2972,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "validators_count",
+            "value": 2971,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "validators_count",
+            "value": 2971,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "validators_count",
+            "value": 2971,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "validators_count",
+            "value": 2971,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "validators_count",
+            "value": 2971,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "validators_count",
+            "value": 2970,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "validators_count",
+            "value": 2970,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "validators_count",
+            "value": 2970,
+            "timestamp": 1677715200000
+        }
+    ],
+    "stakedPct": [
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38480412018709687,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38459085190345504,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3843732813624936,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3843370419293103,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3843421985130442,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3846183287756576,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38445929202964013,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38419150283819314,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38394736467199114,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3827479529293103,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38218307378965827,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3819137440849571,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38224307203959296,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3821769598476411,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38193669093335175,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38204823171062174,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3820033821175637,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3817987483053905,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.381591731146124,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3814070103038488,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3812553421258378,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38102566087653955,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3812445431826237,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38124846375223675,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3820470752650077,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3828310141571761,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38227222839528896,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.3834550440845088,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38338921146499333,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38322533792526137,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "validators_staked_pct",
+            "value": 0.38160786524057355,
+            "timestamp": 1677715200000
+        }
+    ],
+    "apy": [
+        {
+            "key": "validators_apy",
+            "value": 0.03453822861468585,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03453822861468585,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03453822861468585,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03453822861468585,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03453822861468585,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03453169347209083,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "validators_apy",
+            "value": 0.03449253449253449,
+            "timestamp": 1677715200000
+        }
+    ]
+}
