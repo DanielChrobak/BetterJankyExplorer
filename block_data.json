@@ -1,0 +1,1572 @@
+{
+    "blockCount": [
+        {
+            "key": "blocks_count",
+            "value": 1728961,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1730374,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1731763,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1733199,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1734621,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1735832,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1737401,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1738829,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1740244,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1741662,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1743072,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1744494,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1745911,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1747323,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1748742,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1750160,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1751562,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1752992,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1754418,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1756110,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1757823,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1759517,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1761105,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1762811,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1764503,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1766228,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1767855,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1769276,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1770691,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1772109,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "blocks_count",
+            "value": 1772187,
+            "timestamp": 1677715200000
+        }
+    ],
+    "electionTimeDay": [
+        {
+            "key": "election_time_day",
+            "value": 1925.1818181818182,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1995.093023255814,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "election_time_day",
+            "value": 2034.3333333333333,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1970.4883720930231,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1946.5,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "election_time_day",
+            "value": 3274.8846153846152,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "election_time_day",
+            "value": 3053.8928571428573,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1964.590909090909,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1989.0232558139535,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1981.8139534883721,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1935.659090909091,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1917.1333333333334,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1910.3555555555556,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1921.5454545454545,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1928.4772727272727,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1934.4222222222222,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1946.5,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1945.1136363636363,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1928.4772727272727,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1921.909090909091,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1595.0740740740741,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1617.867924528302,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1724.42,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1724.42,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1634.6538461538462,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1681.862745098039,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1650.0566037735848,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1952.2954545454545,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1975.4651162790697,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1992.9545454545455,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "election_time_day",
+            "value": 1921.5454545454545,
+            "timestamp": 1677715200000
+        }
+    ],
+    "blockTimeDay": [
+        {
+            "key": "block_time_day",
+            "value": 61.26349431818182,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.14672364672364,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.19489723600284,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.08857142857143,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.001421464108034,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "block_time_day",
+            "value": 77.98263254113346,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "block_time_day",
+            "value": 71.15244407622204,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.004240282685515,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.004276550249465,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.00922640170334,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.00924608819346,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.01208244491826,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.01207386363637,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.001422475106686,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.001421464108034,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.00142045454545,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.00142755174875,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.00142857142857,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.001419446415895,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "block_time_day",
+            "value": 60.54073033707865,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "block_time_day",
+            "value": 50.93156342182891,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "block_time_day",
+            "value": 51.00590318772137,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "block_time_day",
+            "value": 54.896178343949046,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "block_time_day",
+            "value": 54.50760456273764,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "block_time_day",
+            "value": 51.092746730083235,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "block_time_day",
+            "value": 51.04159239453357,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "block_time_day",
+            "value": 52.89735709895513,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.00922640170334,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.02342086586231,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.02352102637206,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "block_time_day",
+            "value": 61.001414427157,
+            "timestamp": 1677715200000
+        }
+    ],
+    "blockTimeDayStdDev": [
+        {
+            "key": "block_time_day_std_dev",
+            "value": 2.8336042691590775,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 2.5186085673058516,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 3.1399285419094047,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 2.0489047864793526,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.03768889902049291,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 42.51639954440403,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 42.60079210299537,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 5.251608382075267,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.11322764585096856,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.29541964660108433,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.29573456509478957,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.4016277322387788,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.401485111142633,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.03770228996874434,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.03768889902049291,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.03767552233052408,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.03776945947363234,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.03778293650610287,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 1.8079960710747909,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 5.358954506139744,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 2.7351535372582316,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 2.8024060382364286,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 5.379430725881852,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 5.3830882420470365,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 3.2168809933637905,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 3.165386569722632,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 4.84379992204726,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 5.499079721993477,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.5996134594295556,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.6008931809635345,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "block_time_day_std_dev",
+            "value": 0.03759556020306527,
+            "timestamp": 1677715200000
+        }
+    ],
+    "blockTimeWeek": [
+        {
+            "key": "block_time_week",
+            "value": 1906.5552050473186,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1916.373417721519,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1925.6805111821086,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1928.5846645367412,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1935.2747603833866,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "block_time_week",
+            "value": 2057.387755102041,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "block_time_week",
+            "value": 2046.2677966101694,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "block_time_week",
+            "value": 2024.5469798657718,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "block_time_week",
+            "value": 2032.5319865319866,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "block_time_week",
+            "value": 2025.190635451505,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "block_time_week",
+            "value": 2018.3411371237457,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "block_time_week",
+            "value": 2016.2976588628762,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "block_time_week",
+            "value": 2010.6433333333334,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1929.335463258786,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1927.776357827476,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1923.9554140127389,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1917.2698412698412,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1918.2031746031746,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1920.3789808917197,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1918.4,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1864.6512345679012,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1813.945945945946,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1767,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1739.3832853025935,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1693.467787114846,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1657.0054945054944,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1630.0808625336927,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1674.7063711911358,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1722.3789173789173,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1747.8988439306358,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "block_time_week",
+            "value": 1750.4463768115943,
+            "timestamp": 1677715200000
+        }
+    ],
+    "blockTimeWeekStdDev": [
+        {
+            "key": "block_time_week_std_dev",
+            "value": 56.651925316758614,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 152.995905313724,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 182.771875211011,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 186.267472280112,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 191.603436761267,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 850.694997846605,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 854.258100079263,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 855.783722673151,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 858.345558596069,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 846.564482001263,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 840.3706370087,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 839.785873511067,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 837.996812832012,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 140.285298348198,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 108.037807144488,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 104.681616424472,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 79.30469339770792,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 80.11438869837305,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 95.60698808248331,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 156.987513975346,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 182.38666250502,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 187.684167007093,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 186.837037858801,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 179.739283252213,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 166.919805810379,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 160.83719921557,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 143.511441997211,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 180.859927962577,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 217.834213526766,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 224.755567432114,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "block_time_week_std_dev",
+            "value": 224.521855843176,
+            "timestamp": 1677715200000
+        }
+    ],
+    "blockTimeMonth": [
+        {
+            "key": "block_time_month",
+            "value": 1872.8789363191042,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1874.112745098039,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1875.9649614576033,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1875.9194113524877,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1876.9915848527348,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1901.4143567874912,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1898.9943262411348,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1895.3406515580737,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1897.8886524822694,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1898.6493967352733,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1898.485450674237,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1897.2631205673758,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1896.9943302622253,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1896.661233167966,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1897.1353649893692,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1909.2774607703282,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1922.7584471603163,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1934.9479392624728,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1940.6236403190717,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1940.48730964467,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1926.5197984161266,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1913.788268955651,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1901.5394456289978,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1895.443342776204,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1883.0358902181563,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1872.702589223233,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1862.1397774687066,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1854.7165627165627,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1856.8452463566966,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1857.3324080499654,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "block_time_month",
+            "value": 1849.3909716908952,
+            "timestamp": 1677715200000
+        }
+    ],
+    "blockTimeMonthStdDev": [
+        {
+            "key": "block_time_month_std_dev",
+            "value": 132.802859453326,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 145.387669785321,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 153.296387701154,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 153.800851808758,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 155.593912015662,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 415.025167723235,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 416.515797354287,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 417.344982044472,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 419.341661465643,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 419.836008570347,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 419.836018694,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 418.974933979639,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 418.896463478806,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 418.567830958435,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 418.747068168541,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 418.584815390237,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 415.983265441727,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 412.43238045306,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 408.70331135048,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 411.162920971938,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 414.776721570285,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 417.339246838574,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 418.880008538059,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 421.452212025093,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 423.680972250103,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 427.189340249856,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 429.078328528763,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 430.001055203723,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 432.269376927308,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 453.254494154592,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "block_time_month_std_dev",
+            "value": 447.506358842864,
+            "timestamp": 1677715200000
+        }
+    ],
+    "txnRate": [
+        {
+            "key": "txn_rate",
+            "value": 326.67,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "txn_rate",
+            "value": 326.71,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "txn_rate",
+            "value": 956.1,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "txn_rate",
+            "value": 984.9,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "txn_rate",
+            "value": 972.6,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "txn_rate",
+            "value": 1462.68,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "txn_rate",
+            "value": 751.54,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "txn_rate",
+            "value": 993.45,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "txn_rate",
+            "value": 921.91,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "txn_rate",
+            "value": 1011.92,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "txn_rate",
+            "value": 1049.78,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "txn_rate",
+            "value": 964.23,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "txn_rate",
+            "value": 968.98,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "txn_rate",
+            "value": 934.24,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "txn_rate",
+            "value": 890.51,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "txn_rate",
+            "value": 899.5,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "txn_rate",
+            "value": 897.1,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "txn_rate",
+            "value": 887.72,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "txn_rate",
+            "value": 891.19,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "txn_rate",
+            "value": 778.37,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "txn_rate",
+            "value": 744.96,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "txn_rate",
+            "value": 909.45,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "txn_rate",
+            "value": 913.61,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "txn_rate",
+            "value": 813.54,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "txn_rate",
+            "value": 886.85,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "txn_rate",
+            "value": 760.31,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "txn_rate",
+            "value": 914.96,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "txn_rate",
+            "value": 1015.38,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "txn_rate",
+            "value": 1013.88,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "txn_rate",
+            "value": 959.88,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "txn_rate",
+            "value": 966.73,
+            "timestamp": 1677715200000
+        }
+    ],
+    "height": [
+        {
+            "key": "height",
+            "value": 1728961,
+            "timestamp": 1675123200000
+        },
+        {
+            "key": "height",
+            "value": 1730374,
+            "timestamp": 1675209600000
+        },
+        {
+            "key": "height",
+            "value": 1731766,
+            "timestamp": 1675296000000
+        },
+        {
+            "key": "height",
+            "value": 1733199,
+            "timestamp": 1675382400000
+        },
+        {
+            "key": "height",
+            "value": 1734621,
+            "timestamp": 1675468800000
+        },
+        {
+            "key": "height",
+            "value": 1735832,
+            "timestamp": 1675555200000
+        },
+        {
+            "key": "height",
+            "value": 1737401,
+            "timestamp": 1675641600000
+        },
+        {
+            "key": "height",
+            "value": 1738830,
+            "timestamp": 1675728000000
+        },
+        {
+            "key": "height",
+            "value": 1740244,
+            "timestamp": 1675814400000
+        },
+        {
+            "key": "height",
+            "value": 1741662,
+            "timestamp": 1675900800000
+        },
+        {
+            "key": "height",
+            "value": 1743072,
+            "timestamp": 1675987200000
+        },
+        {
+            "key": "height",
+            "value": 1744494,
+            "timestamp": 1676073600000
+        },
+        {
+            "key": "height",
+            "value": 1745911,
+            "timestamp": 1676160000000
+        },
+        {
+            "key": "height",
+            "value": 1747323,
+            "timestamp": 1676246400000
+        },
+        {
+            "key": "height",
+            "value": 1748742,
+            "timestamp": 1676332800000
+        },
+        {
+            "key": "height",
+            "value": 1750160,
+            "timestamp": 1676419200000
+        },
+        {
+            "key": "height",
+            "value": 1751562,
+            "timestamp": 1676505600000
+        },
+        {
+            "key": "height",
+            "value": 1752993,
+            "timestamp": 1676592000000
+        },
+        {
+            "key": "height",
+            "value": 1754418,
+            "timestamp": 1676678400000
+        },
+        {
+            "key": "height",
+            "value": 1756112,
+            "timestamp": 1676764800000
+        },
+        {
+            "key": "height",
+            "value": 1757823,
+            "timestamp": 1676851200000
+        },
+        {
+            "key": "height",
+            "value": 1759519,
+            "timestamp": 1676937600000
+        },
+        {
+            "key": "height",
+            "value": 1761105,
+            "timestamp": 1677024000000
+        },
+        {
+            "key": "height",
+            "value": 1762811,
+            "timestamp": 1677110400000
+        },
+        {
+            "key": "height",
+            "value": 1764504,
+            "timestamp": 1677196800000
+        },
+        {
+            "key": "height",
+            "value": 1766228,
+            "timestamp": 1677283200000
+        },
+        {
+            "key": "height",
+            "value": 1767855,
+            "timestamp": 1677369600000
+        },
+        {
+            "key": "height",
+            "value": 1769277,
+            "timestamp": 1677456000000
+        },
+        {
+            "key": "height",
+            "value": 1770691,
+            "timestamp": 1677542400000
+        },
+        {
+            "key": "height",
+            "value": 1772109,
+            "timestamp": 1677628800000
+        },
+        {
+            "key": "height",
+            "value": 1772187,
+            "timestamp": 1677715200000
+        }
+    ]
+}
