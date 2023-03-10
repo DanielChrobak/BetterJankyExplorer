@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "timestamp": "2023-03-02T00:29:50Z"
+    },
+    "data": {
+        "last_week": {
+            "total": 5038386283,
+            "state_channel": 257391283,
+            "fee": 805995000,
+            "assert_location": 1550000000,
+            "add_gateway": 2425000000
+        },
+        "last_month": {
+            "total": 23452825789,
+            "state_channel": 1469495789,
+            "oui": 90000000,
+            "fee": 3834330000,
+            "assert_location": 7191000000,
+            "add_gateway": 10868000000
+        },
+        "last_day": {
+            "total": 946148810,
+            "state_channel": 36333810,
+            "fee": 148315000,
+            "assert_location": 228500000,
+            "add_gateway": 533000000
+        }
+    }
+}
